@@ -1,8 +1,8 @@
 # Program Enkripsi dan Dekripsi Sederhana
 
 ## Pengembang
-Dikembangkan oleh: [Erlangga Fajar Ramadhan]
-                   [Moh Teguh Purwanto]
+Dikembangkan oleh:
+[Simahasiswa2D]
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 
